@@ -1,0 +1,68 @@
+#container
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#container2
+{
+    display: flex;
+    flex-wrap: wrap;
+    width: 70%;
+    height: 200px;
+}
+
+.rect1
+{
+    background-color:green;
+    width: 80%;
+    height: 50px;
+}
+.rect2
+{
+    background-color:blue;
+    width: 20%;
+    height: 50px;
+}
+.rect3
+{
+    background-color:red;
+    width: 30%;
+    height: 200px;
+}
+.rect4
+{
+    background-color:orange;
+    width: 50%;
+    height: 100px;
+}
+.rect5
+{
+    background-color:grey;
+    width: 50%;
+    height: 100px;
+}
+.rect6
+{
+    background-color:yellow;
+    width: 33%;
+    height: 100px;
+}
+.rect7
+{
+    background-color:rgb(24, 68, 24);
+    width: 34%;
+    height: 100px;
+}
+.rect8
+{
+    background-color:rgb(226, 112, 6);
+    width: 33%;
+    height: 100px;
+}
+.rect9
+{
+    background-color:rgb(18, 18, 75);
+    width: 100%;
+    height: 300px;
+}
